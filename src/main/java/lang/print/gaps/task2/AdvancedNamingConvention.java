@@ -1,6 +1,6 @@
 package lang.print.gaps.task2;
 
-public class advancedNamingConvention {
+public class AdvancedNamingConvention {
     public static void main(String[] args) {
         int adult_age = 18;
 

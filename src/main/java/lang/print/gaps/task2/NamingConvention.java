@@ -7,7 +7,7 @@ public class NamingConvention {
         int variableTwo = 2;
         int variable_three = 3;
         final int VARIABLE_FOUR = 4;
-        final int VARIABLE_FIVE = 5;
+        final int VARIABLE_five = 5;
         int VariableSix = 6;
         int variableSeven = 7;
         int VariableEight = 8;
@@ -17,7 +17,7 @@ public class NamingConvention {
         System.out.println(variableTwo);
         System.out.println(variable_three);
         System.out.println(VARIABLE_FOUR);
-        System.out.println(VARIABLE_FIVE);
+        System.out.println(VARIABLE_five);
         System.out.println(VariableSix);
         System.out.println(variableSeven);
         System.out.println(VariableEight);

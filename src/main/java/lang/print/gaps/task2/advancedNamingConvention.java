@@ -4,17 +4,26 @@ public class advancedNamingConvention {
     public static void main(String[] args) {
         int adult_age = 18;
 
-        int age;
-        int phoneNumber;
+        int age = 25;
+        int phoneNumber = 12351;
+
+
+
+        System.out.println(adult_age);
+        System.out.println(age);
+        System.out.println(phoneNumber);
+        callToFriend("Jack");
+        callByNumber("65252151");
+
     }
 
     //        {
     public static void callToFriend(String str) {
-        System.out.println("Hello friends!");
+        System.out.println();
     }
 
-    public static void callByNumber(int number) {
-        System.out.println("My number");
+    public static void callByNumber(String number) {
+        System.out.println();
     }
 
 }

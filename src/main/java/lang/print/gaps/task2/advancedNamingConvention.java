@@ -12,18 +12,18 @@ public class advancedNamingConvention {
         System.out.println(adult_age);
         System.out.println(age);
         System.out.println(phoneNumber);
-        callToFriend("Jack");
-        callByNumber("65252151");
 
+        callToFriend();
+        callByNumber();
     }
 
     //        {
-    public static void callToFriend(String str) {
-        System.out.println();
+    public static void callToFriend() {
+         System.out.println("Jack");
     }
 
-    public static void callByNumber(String number) {
-        System.out.println();
+    public static void callByNumber() {
+        System.out.println(874156);
     }
 
 }

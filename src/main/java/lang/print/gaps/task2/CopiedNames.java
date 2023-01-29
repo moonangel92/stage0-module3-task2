@@ -7,8 +7,7 @@ public class CopiedNames {
         int value1 = 1000;
         int variable3 = 4000;
         int value2 = 3000;
-        int variables4 = 5000;
-        variables4 = 7000;
+        int variables4 = 7000;
         int value3 = 90000;
 
         System.out.println(variable1);
